@@ -1,5 +1,5 @@
 # My personal README
-Hi I'm Josh, I'm a front-end engineer on Team Planet Express and I work on the WPE's User Portal.
+Hi I'm Josh, I'm a front-end engineer on Team Planet Express and I work on WPE's User Portal.
 
 ## My Goals
 * Make front-end development feel like this in Portal:
